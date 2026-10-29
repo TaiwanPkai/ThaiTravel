@@ -1,0 +1,234 @@
+[
+  {
+    "id": "wat-arun",
+    "category": "attraction",
+    "name": "鄭王廟",
+    "english": "Wat Arun",
+    "area": "曼谷 Yai",
+    "icon": "🛕",
+    "color": "#d8e8e9",
+    "description": "湄南河畔的代表性寺廟，適合安排河岸散步與拍攝寺廟建築。可搭配渡船前往河對岸的臥佛寺一帶。",
+    "tags": [
+      "寺廟文化",
+      "河岸景色",
+      "初訪推薦"
+    ],
+    "mapQuery": "Wat Arun Bangkok",
+    "officialUrl": "https://www.watarun1.com/"
+  },
+  {
+    "id": "wat-pho",
+    "category": "attraction",
+    "name": "臥佛寺",
+    "english": "Wat Pho",
+    "area": "舊城區",
+    "icon": "🙏",
+    "color": "#efe1c8",
+    "description": "以大型臥佛與傳統泰式文化聞名，適合第一次來曼谷、想認識泰國寺廟文化的旅客。建議與大皇宮一帶安排在同一天。",
+    "tags": [
+      "寺廟文化",
+      "經典景點",
+      "步行探索"
+    ],
+    "mapQuery": "Wat Pho Bangkok"
+  },
+  {
+    "id": "grand-palace",
+    "category": "attraction",
+    "name": "曼谷大皇宮",
+    "english": "The Grand Palace",
+    "area": "舊城區",
+    "icon": "👑",
+    "color": "#f1dfb5",
+    "description": "曼谷重要的歷史與王室地標。參觀前先確認入場規定與服裝要求，並預留時間排隊及步行。",
+    "tags": [
+      "歷史文化",
+      "經典景點",
+      "服裝需留意"
+    ],
+    "mapQuery": "The Grand Palace Bangkok",
+    "officialUrl": "https://www.royalgrandpalace.th/"
+  },
+  {
+    "id": "bacc",
+    "category": "attraction",
+    "name": "曼谷藝術文化中心",
+    "english": "Bangkok Art and Culture Centre",
+    "area": "暹羅 Siam",
+    "icon": "🎨",
+    "color": "#e5dff0",
+    "description": "適合喜歡當代藝術、展覽與城市散步的人。可與 MBK、暹羅商圈安排在同一趟行程，出發前查看當期展覽資訊。",
+    "tags": [
+      "藝術展覽",
+      "雨天備案",
+      "近 BTS"
+    ],
+    "mapQuery": "Bangkok Art and Culture Centre BACC"
+  },
+  {
+    "id": "chatuchak",
+    "category": "attraction",
+    "name": "恰圖恰週末市集",
+    "english": "Chatuchak Weekend Market",
+    "area": "恰圖恰",
+    "icon": "🛍️",
+    "color": "#f1d9ca",
+    "description": "大型市集，適合逛設計小物、服飾、植物與在地商品。市集攤位與營業情況依日期而異，建議先確認當天開放區域。",
+    "tags": [
+      "市集購物",
+      "週末行程",
+      "穿舒適鞋"
+    ],
+    "mapQuery": "Chatuchak Weekend Market Bangkok"
+  },
+  {
+    "id": "iconsiam",
+    "category": "attraction",
+    "name": "ICONSIAM 暹羅天地",
+    "english": "ICONSIAM",
+    "area": "河岸區",
+    "icon": "🏙️",
+    "color": "#d9e5df",
+    "description": "大型河岸購物中心，集合購物、餐飲與室內活動。適合安排半天行程，也可順道體驗湄南河沿岸景色。",
+    "tags": [
+      "購物商場",
+      "餐飲選擇多",
+      "雨天備案"
+    ],
+    "mapQuery": "ICONSIAM Bangkok",
+    "officialUrl": "https://www.iconsiam.com/"
+  },
+  {
+    "id": "terminal21",
+    "category": "hotel",
+    "name": "Grande Centre Point Terminal 21",
+    "english": "Grande Centre Point Terminal 21",
+    "area": "阿索克 Asok",
+    "icon": "🏨",
+    "color": "#dce8e3",
+    "description": "位於 Asok 商圈，適合重視大眾運輸與購物便利性的旅客。訂房前請確認房型、取消條款及是否含早餐。",
+    "tags": [
+      "近 BTS / MRT",
+      "購物方便",
+      "市區住宿"
+    ],
+    "mapQuery": "Grande Centre Point Terminal 21 Bangkok",
+    "officialUrl": "https://www.grandecentrepointterminal21.com/"
+  },
+  {
+    "id": "eastin-sathorn",
+    "category": "hotel",
+    "name": "Eastin Grand Hotel Sathorn",
+    "english": "Eastin Grand Hotel Sathorn",
+    "area": "沙吞 Sathorn",
+    "icon": "🌆",
+    "color": "#d8e2ef",
+    "description": "位於沙吞一帶，適合想住在市區、以大眾運輸移動的旅客。預訂時可比較房型景觀、早餐與接駁需求。",
+    "tags": [
+      "近 BTS",
+      "市區移動",
+      "商務與旅遊"
+    ],
+    "mapQuery": "Eastin Grand Hotel Sathorn Bangkok",
+    "officialUrl": "https://www.eastingrandsathorn.com/"
+  },
+  {
+    "id": "ibis-sukhumvit24",
+    "category": "hotel",
+    "name": "ibis Bangkok Sukhumvit 24",
+    "english": "ibis Bangkok Sukhumvit 24",
+    "area": "澎蓬 Phrom Phong",
+    "icon": "🛏️",
+    "color": "#e6e2d5",
+    "description": "可列入預算型市區住宿的比較名單，周邊有商場與大眾運輸選擇。實際房價會隨日期、房型與需求變動。",
+    "tags": [
+      "市區住宿",
+      "近 BTS",
+      "商場周邊"
+    ],
+    "mapQuery": "ibis Bangkok Sukhumvit 24",
+    "officialUrl": "https://all.accor.com/"
+  },
+  {
+    "id": "sala-rattanakosin",
+    "category": "hotel",
+    "name": "sala rattanakosin Bangkok",
+    "english": "sala rattanakosin Bangkok",
+    "area": "舊城區河岸",
+    "icon": "🌅",
+    "color": "#eadbcf",
+    "description": "適合想把舊城區寺廟與河岸景色當作旅程主題的旅客。訂房前請確認房間景觀、房型配置與交通方式。",
+    "tags": [
+      "河岸景色",
+      "特色住宿",
+      "舊城區"
+    ],
+    "mapQuery": "sala rattanakosin Bangkok",
+    "officialUrl": "https://www.salarattanakosin.com/"
+  },
+  {
+    "id": "thipsamai",
+    "category": "food",
+    "name": "Thipsamai Pad Thai",
+    "english": "Thipsamai",
+    "area": "舊城區",
+    "icon": "🍜",
+    "color": "#f2dfc3",
+    "description": "以泰式炒河粉聞名的店家之一，適合想把經典泰國料理放進行程的人。分店、排隊狀況與營業資訊請以店家最新公告為準。",
+    "tags": [
+      "泰式炒河粉",
+      "經典料理",
+      "熱門店家"
+    ],
+    "mapQuery": "Thipsamai Pad Thai Bangkok",
+    "officialUrl": "https://thipsamai.com/"
+  },
+  {
+    "id": "jay-fai",
+    "category": "food",
+    "name": "Jay Fai",
+    "english": "Jay Fai",
+    "area": "舊城區",
+    "icon": "🍳",
+    "color": "#f0d5cf",
+    "description": "知名街頭料理店，以招牌蟹肉蛋包等料理受到關注。熱門時段可能需要等候，出發前務必確認預約方式與最新營業安排。",
+    "tags": [
+      "知名店家",
+      "海鮮料理",
+      "先確認預約"
+    ],
+    "mapQuery": "Jay Fai Bangkok"
+  },
+  {
+    "id": "or-tor-kor",
+    "category": "food",
+    "name": "Or Tor Kor 市場",
+    "english": "Or Tor Kor Market",
+    "area": "恰圖恰",
+    "icon": "🥭",
+    "color": "#e5e8c9",
+    "description": "適合探索泰國水果、熟食與在地食材的市場。可以和恰圖恰周邊行程搭配，現場價格依攤位而異。",
+    "tags": [
+      "在地市場",
+      "水果熟食",
+      "白天行程"
+    ],
+    "mapQuery": "Or Tor Kor Market Bangkok"
+  },
+  {
+    "id": "jeh-o",
+    "category": "food",
+    "name": "Jeh O Chula",
+    "english": "Jeh O Chula",
+    "area": "朱拉隆功 Chula",
+    "icon": "🍲",
+    "color": "#e8d8e0",
+    "description": "以泰式宵夜與招牌麵食受到旅客關注。建議先查看最新菜單、排隊資訊與店家公告，再決定前往時間。",
+    "tags": [
+      "泰式料理",
+      "宵夜選擇",
+      "熱門店家"
+    ],
+    "mapQuery": "Jeh O Chula Bangkok"
+  }
+]
